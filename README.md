@@ -1,3 +1,8 @@
+# Images 
+
+![Image_1](https://github.com/MahmoudKarimiZarandi/Simple-MultiThread-With-Time-Delay/blob/master/Images/Screenshot%20(61491)_2.jpg)
+![Image_2](https://github.com/MahmoudKarimiZarandi/Simple-MultiThread-With-Time-Delay/blob/master/Images/Screenshot%20(61493)_2.jpg)
+
 # Simple MultiThreading With Delay in C++
 
 * Headers Used =>
