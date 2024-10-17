@@ -1,6 +1,6 @@
 # Simple MultiThreading With Delay in C++
 
-* This is a simple and short C++ MultiThreading while using below Headers , and with comments it has all the introduction needed .
+* Headers Used =>
 
 * iostream   =   input / output Stream
 * conio.h    =   To get input while runtime 
