@@ -17,7 +17,6 @@
 ## Build & Run
 
 * I have used VisualStudio 2022 to build and compile it both in Release and Debug for x64 bit .
-* Also there is Compiled version of this Console Application inside (X64) Directory .
 
 
 
